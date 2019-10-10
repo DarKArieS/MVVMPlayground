@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="murbit GPX Tracker">
+<trk>
+<trkseg>
+<trkpt lon="121.284167636299" lat="24.145729187898"><ele>3144.282566070557</ele><time>2019-02-09T14:51:06+08:00</time><magvar>-1.000000</magvar><hdop>10.000000</hdop><vdop>8.000000</vdop><speed>0.000000</speed></trkpt>
+<trkpt lon="121.284478604906" lat="24.145347476028"><ele>3136.082614898682</ele><time>2019-02-09T14:53:28+08:00</time><magvar>155.463760</magvar><hdop>5.000000</hdop><vdop>6.000000</vdop><speed>5.950000</speed></trkpt>
+<trkpt lon="121.284647332617" lat="24.144898541294"><ele>3133.365329742432</ele><time>2019-02-09T14:53:35+08:00</time><magvar>168.980896</magvar><hdop>5.000000</hdop><vdop>6.000000</vdop><speed>7.660000</speed></trkpt>
+<trkpt lon="121.284752693140" lat="24.144416078948"><ele>3134.683200836182</ele><time>2019-02-09T14:53:42+08:00</time><magvar>175.119919</magvar><hdop>5.000000</hdop><vdop>6.000000</vdop><speed>6.950000</speed></trkpt>
+<trkpt lon="121.284678010383" lat="24.143954277992"><ele>3133.769626617432</ele><time>2019-02-09T14:53:51+08:00</time><magvar>190.964493</magvar><hdop>5.000000</hdop><vdop>6.000000</vdop><speed>5.830000</speed></trkpt>
+<trkpt lon="121.284579271564" lat="24.143482795939"><ele>3133.136569976807</ele><time>2019-02-09T14:53:59+08:00</time><magvar>185.611267</magvar><hdop>5.000000</hdop><vdop>4.000000</vdop><speed>6.840000</speed></trkpt>
+<trkpt lon="121.284525375926" lat="24.143031514272"><ele>3127.097019195557</ele><time>2019-02-09T14:54:18+08:00</time><magvar>177.032547</magvar><hdop>5.000000</hdop><vdop>6.000000</vdop><speed>3.870000</speed></trkpt>
+<trkpt lon="121.284622689822" lat="24.142540460475"><ele>3129.435153961182</ele><time>2019-02-09T14:54:26+08:00</time><magvar>182.843002</magvar><hdop>5.000000</hdop><vdop>6.000000</vdop><speed>4.130000</speed></trkpt>
+<trkpt lon="121.284550353998" lat="24.142022249311"><ele>3126.143161773682</ele><time>2019-02-09T14:54:39+08:00</time><magvar>210.014709</magvar><hdop>5.000000</hdop><vdop>6.000000</vdop><speed>4.520000</speed></trkpt>
+<trkpt lon="121.284821927660" lat="24.141649464168"><ele>3129.389499664307</ele><time>2019-02-09T14:58:32+08:00</time><magvar>140.976562</magvar><hdop>5.000000</hdop><vdop>3.000000</vdop><speed>1.410000</speed></trkpt>
+<trkpt lon="121.285245800504" lat="24.141400773101"><ele>3125.141941070557</ele><time>2019-02-09T14:59:07+08:00</time><magvar>123.398438</magvar><hdop>5.000000</hdop><vdop>3.000000</vdop><speed>1.540000</speed></trkpt>
+<trkpt lon="121.285689035543" lat="24.141184813365"><ele>3124.234226226807</ele><time>2019-02-09T14:59:41+08:00</time><magvar>130.078125</magvar><hdop>5.000000</hdop><vdop>3.000000</vdop><speed>1.550000</speed></trkpt>
+<trkpt lon="121.286070412138" lat="24.140893709868"><ele>3126.708103179932</ele><time>2019-02-09T15:04:24+08:00</time><magvar>163.828125</magvar><hdop>5.000000</hdop><vdop>3.000000</vdop><speed>0.900000</speed></trkpt>
+</trkseg>
+</trk>
+</gpx>
